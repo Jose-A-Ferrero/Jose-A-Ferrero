@@ -13,8 +13,15 @@ Enfocado en arquitectura limpia, escalabilidad y soluciones prácticas.
 
 Actualmente desarrollando:
 
-### 🐟 Freiduría Nerea – Web en producción
-Web corporativa desarrollada para negocio real de restauración.
+### 🐟 Freiduría Nerea – Web en Producción
+
+Proyecto real de digitalización para negocio de restauración.
+
+Stack: HTML · CSS · PHP  
+🌍 Web: https://www.freidurianerea.es  
+🔗 Repo: https://github.com/Jose-A-Ferrero/freidurianerea-web
+
+
 
 ### 🧠 Sagatech – ERP/CRM Modular
 Proyecto colaborativo de un ERP/CRM con arquitectura modular.
