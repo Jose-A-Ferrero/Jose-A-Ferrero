@@ -1,4 +1,4 @@
-# 👋 Hola, soy José Ferrero
+# 👋 Hola, soy José Antonio Ferrero
 
 💻 Full Stack Developer | Astro · Node.js · MySQL · Kotlin  
 📍 Sevilla | Abierto a remoto, híbrido o presencial  
