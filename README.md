@@ -11,7 +11,7 @@ Desarrollador enfocado en construir soluciones reales y funcionales.
 
 Actualmente desarrollando:
 
-## 🐟 Freiduría Nerea – Web en producción
+### 🐟 Freiduría Nerea – Web en producción
 Web corporativa desarrollada para negocio real de restauración.
 
 - 🧠 **Sagatech** – ERP/CRM modular (Astro + Node + MySQL)
