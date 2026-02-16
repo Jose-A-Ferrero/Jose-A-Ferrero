@@ -7,7 +7,9 @@
 
 ## 🚀 Sobre mí
 
-Desarrollador enfocado en construir soluciones reales y funcionales.
+Desarrollador Full Stack con experiencia en proyectos reales en producción (web y móvil).
+Enfocado en arquitectura limpia, escalabilidad y soluciones prácticas.
+
 
 Actualmente desarrollando:
 
