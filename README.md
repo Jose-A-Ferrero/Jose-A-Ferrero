@@ -14,7 +14,15 @@ Actualmente desarrollando:
 ### 🐟 Freiduría Nerea – Web en producción
 Web corporativa desarrollada para negocio real de restauración.
 
-- 🧠 **Sagatech** – ERP/CRM modular (Astro + Node + MySQL)
+### 🧠 Sagatech – ERP/CRM Modular
+Proyecto colaborativo de un ERP/CRM con arquitectura modular.
+
+- Módulo de Tareas (mi participación principal)
+- Integración con Proyectos
+- Conexión con API REST y filtros dinámicos
+
+🔗 Repo: https://github.com/Jose-A-Ferrero/sagatech-erp
+
 - 📱 **UPRODEA** – App Android para gestión de protectora (Kotlin + SQLite)
 - 🎉 **SigaEvento** – Plataforma de seguimiento de eventos en tiempo real
 - 
