@@ -38,7 +38,7 @@ Aplicación móvil desarrollada en Kotlin para la gestión interna de una protec
 
 Stack: Kotlin · SQLite  
 📍 Actualmente en uso real  
-🔗 Repo: https://github.com/TUUSUARIO/uprodea-android-app
+🔗 Repo: https://github.com/Jose-A-Ferrero/uprodea-android-app
 
 ### 🎉 **SigaEvento** – Plataforma de seguimiento de eventos en tiempo real en construcción
   
