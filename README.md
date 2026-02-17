@@ -32,9 +32,16 @@ Proyecto colaborativo de un ERP/CRM con arquitectura modular.
 
 🔗 Repo: https://github.com/Jose-A-Ferrero/sagatech-erp
 
-- 📱 **UPRODEA** – App Android para gestión de protectora (Kotlin + SQLite)
-- 🎉 **SigaEvento** – Plataforma de seguimiento de eventos en tiempo real
-- 
+### 📱 UPRODEA – App Android en uso real
+
+Aplicación móvil desarrollada en Kotlin para la gestión interna de una protectora de animales.
+
+Stack: Kotlin · SQLite  
+📍 Actualmente en uso real  
+🔗 Repo: https://github.com/TUUSUARIO/uprodea-android-app
+
+### 🎉 **SigaEvento** – Plataforma de seguimiento de eventos en tiempo real en construcción
+  
 
 Me apasiona transformar ideas en productos útiles y bien estructurados.
 
