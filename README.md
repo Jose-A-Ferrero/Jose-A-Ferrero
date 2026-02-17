@@ -57,7 +57,6 @@ Me apasiona transformar ideas en productos útiles y bien estructurados.
 
 **Backend**
 - Node.js
-- Express
 - MySQL
 
 **Mobile**
